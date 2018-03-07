@@ -1,0 +1,7 @@
+Hello!
+To jest plik blop.txt
+Uczymy sie dockerka.
+Docker jest wielorybem.
+Jest taki wieloryb w oceanie ktory plywa i nadaje na takich czestotliwosciach ze nikt go nie rozumi.
+Nawet inny wieloryb zaden :(
+:(
